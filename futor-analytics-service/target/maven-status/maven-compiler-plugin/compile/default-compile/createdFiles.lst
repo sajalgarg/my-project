@@ -1,0 +1,17 @@
+com\futor\analytics\message\service\MessageOperation.class
+com\futor\analytics\message\benchmark\service\impl\ConceptBenchmarkServiceImpl.class
+com\futor\analytics\service\RuleService.class
+com\futor\analytics\service\impl\StudentMessageServiceImpl.class
+com\futor\analytics\service\StudentBigTableReportService.class
+com\futor\analytics\message\service\impl\StudentModelServiceImpl.class
+com\futor\analytics\service\impl\StudentBigTableReportServiceImpl.class
+com\futor\analytics\service\impl\StudentProgressperformanceReportServiceImpl.class
+com\futor\analytics\service\impl\MessageServiceImpl.class
+com\futor\analytics\service\StudentProgressperformanceReportService.class
+com\futor\analytics\message\handler\ConceptTimeHandler.class
+com\futor\analytics\service\util\ServiceUtil.class
+com\futor\analytics\service\StudentMessageService.class
+com\futor\analytics\message\service\StudentModelService.class
+com\futor\analytics\message\benchmark\service\ConceptBenchmarkService.class
+com\futor\analytics\service\impl\RuleServiceImpl.class
+com\futor\analytics\service\MessageService.class

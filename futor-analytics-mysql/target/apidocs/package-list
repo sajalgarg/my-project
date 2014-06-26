@@ -1,0 +1,7 @@
+com.futor.analytics.db
+com.futor.analytics.db.impl
+com.futor.analytics.db.util
+com.futor.analytics.message.benchmark.db
+com.futor.analytics.message.benchmark.db.impl
+com.futor.analytics.message.db
+com.futor.analytics.message.db.impl

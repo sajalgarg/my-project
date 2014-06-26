@@ -1,0 +1,9 @@
+com\futor\analytics\db\StudentProgressPerformanceReportDAO.class
+com\futor\analytics\message\db\StudentModelDAO.class
+com\futor\analytics\message\db\impl\StudentModelDAOImpl.class
+com\futor\analytics\db\StudentBigTableReportDAO.class
+com\futor\analytics\db\util\DBUtil.class
+com\futor\analytics\message\benchmark\db\impl\ConceptBenchmarkImpl.class
+com\futor\analytics\db\impl\StudentProgressPerformanceReportDAOImpl.class
+com\futor\analytics\db\impl\StudentBigTableReportDAOImpl.class
+com\futor\analytics\message\benchmark\db\ConceptBenchmark.class

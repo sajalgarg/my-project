@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:beans="http://www.springframework.org/schema/beans"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+	<bean id="studentBigTableReportService" class="com.futor.analytics.service.impl.StudentBigTableReportServiceImpl" />
+	<bean id="studentProgressperformanceReportService" class="com.futor.analytics.service.impl.StudentProgressperformanceReportServiceImpl" />
+	
+	<bean id="ruleService" class="com.futor.analytics.service.impl.RuleServiceImpl" />
+	<bean id="studentModelService" class="com.futor.analytics.message.service.impl.StudentModelServiceImpl" />
+	<bean id="conceptBenchmarkService" class="com.futor.analytics.message.benchmark.service.impl.ConceptBenchmarkServiceImpl" />
+	<bean id="studentMessageService" class="com.futor.analytics.service.impl.StudentMessageServiceImpl" />
+	
+	<bean id="messageService" class="com.futor.analytics.service.impl.MessageServiceImpl" />
+	
+	<bean id="conceptTimeHandler" class="com.futor.analytics.message.handler.ConceptTimeHandler" />
+</beans>
